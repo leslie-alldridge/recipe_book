@@ -48,4 +48,3 @@ Before starting, prepare the ingredients and create buttermilk with 2-3 TBSP of 
 * * *
 
 {% include youtube.html id='BPl7D20F2mE' %}
-test
