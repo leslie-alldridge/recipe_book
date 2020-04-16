@@ -1,5 +1,5 @@
 ---
-[Go back](/recipe_book/)
+[Go back](/cook_book/)
 
 # Poached Eggs
 
