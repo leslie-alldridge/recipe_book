@@ -1,7 +1,7 @@
 ---
 [Go back](/recipe_book/)
 
-# Omelette
+# Poached Eggs
 
 ## Handy links
 
