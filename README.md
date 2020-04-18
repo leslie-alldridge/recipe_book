@@ -44,3 +44,6 @@ A collection of recipes that I've learned how to make.
 - teaspoon cinnamon
 - icing sugar
 
+### Garlic bread loaf style
+
+https://www.youtube.com/watch?v=S145DFheNKw
