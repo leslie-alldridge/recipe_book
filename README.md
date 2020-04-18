@@ -17,3 +17,16 @@ A collection of recipes that I've learned how to make.
 - two tsp vanilla essence
 - two eggs
 - 3 tbs melted butter
+
+
+### Baked onion rings
+
+* https://www.justataste.com/crispy-baked-onion-rings-recipe/
+
+- 2 large onions
+- 3/4 cup all-purpose flour
+- 4 large egg whites
+- 2 Tablespoons mayonnaise
+- 1 cup Italian-style breadcrumbs (fine breadcrumbs with herbs)
+- two tsp vanilla essence
+- Cooking spray
