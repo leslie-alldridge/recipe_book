@@ -7,7 +7,7 @@ A collection of recipes that I've learned how to make.
 
 ### Pikelets
 
-- https://www.youtube.com/watch?v=l8-6HMW7lyU
+* https://www.youtube.com/watch?v=l8-6HMW7lyU
 
 - 1 and a half cups of milk
 - 2 TBS white vinegar 
