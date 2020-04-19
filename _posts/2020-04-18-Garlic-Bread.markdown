@@ -24,7 +24,7 @@ Makes about 3/4 of a french stick from New World
 
 ## Steps
 
-1. Preheat over to 180c
+1. Preheat oven to 180c
 2. Put 100g of butter into a bowl and microwave till soft (~13 seconds)
 3. Add a heaped teaspoon of minced garlic 
 4. Generous sprinkle of parsley
