@@ -44,6 +44,8 @@ A collection of recipes that I've learned how to make.
 - teaspoon cinnamon
 - icing sugar
 
-### Garlic bread loaf style
+### Recipes to try
 
-https://www.youtube.com/watch?v=S145DFheNKw
+https://www.foodinaminute.co.nz/Recipes/Perfect-Crumbed-Fish-Fillets
+https://www.justataste.com/quick-easy-corn-fritters-recipe/
+https://www.justataste.com/easy-homemade-cinnamon-rolls-without-yeast-recipe/
