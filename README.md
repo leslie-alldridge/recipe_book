@@ -30,20 +30,6 @@ A collection of recipes that I've learned how to make.
 - 1 cup Italian-style breadcrumbs (fine breadcrumbs with herbs)
 - Cooking spray
 
-### Stewed apple eggy bread
-
-* https://www.youtube.com/watch?v=arrznB5iEPU&list=LLYOGvLArvtSIiR8By5C7e7g&index=57&app=desktop
-
-- bread x4
-- apples x3
-- 2 tbsp white sugar
-- knob of butter
-- 3 eggs
-- 4 tbsp milk
-- 2tbsp sugar
-- teaspoon cinnamon
-- icing sugar
-
 ### Recipes to try
 
 https://www.foodinaminute.co.nz/Recipes/Perfect-Crumbed-Fish-Fillets
