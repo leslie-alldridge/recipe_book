@@ -34,7 +34,7 @@ Add more oil to pan as required
 1. In a large bowl, stir together the corn kernels, flour, sugar, baking powder, 1/2 teaspoon salt and 1/4 teaspoon pepper.
 2. Stir in the eggs and heavy cream/milk until the batter is well-combined.
 3. Add oil to pan on medium high heat, once oil is hot scoop 1/3 cup mixture into pan
-4. Cook for 2-3 minutes each side, rest on paper lined plate, serve with salt and aoli
+4. Cook for 2-3 minutes each side, rest on paper lined plate, serve with salt and aoli (makes about 10 fritters)
 
 
 
