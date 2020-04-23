@@ -1,0 +1,48 @@
+---
+
+[Go back](/cook_book/)
+
+# Pikelets
+
+## Handy links
+
+- [Youtube Video](https://www.youtube.com/watch?v=l8-6HMW7lyU){:target="\_blank"}
+
+## Helpful Notes & Tips
+
+Don't overmix the mixture
+
+Melt butter in a bowl on top of the pan, good way to get the pan hot too
+
+Makes around 20 pikelets.
+
+Taste great warm or cold
+
+## Ingredients
+
+- 1 and a half cups of milk
+- 2 TBS white vinegar
+- 2 cups self raising flour
+- 2 TBS sugar
+- 1/2 tsp baking powder
+- two tsp vanilla essence
+- two eggs
+- 3 tbs melted butter (40 grams)
+
+## Steps
+
+Before starting, prepare the ingredients and create buttermilk with 2-3 TBSP of vinegar and whole milk. Let it stand for 5-10 minutes.
+
+1. In a large bowl, add the flour, sugar, salt, baking powder, and baking soda and whisk to combine.
+2. In a medium bowl or liquid measuring cup, add the buttermilk, melted butter, and egg yolks and whisk to combine.
+3. Add the buttermilk mixture to the dry ingredients and gently fold with a rubber spatula until just combined.
+4. Add the egg whites and fold until just combined. Be sure not to overmix. Some lumps are okay.
+5. Let the batter rest for 15-30 minutes at room temperature.
+6. Add the butter to a cast iron skillet and heat over medium low heat. Once the butter has melted and is bubbling, reduce the heat to medium-low and add ⅓ cup (75 g) of batter to the pan.
+7. Cook for 2-3 minutes, until bubbles start to appear on the surface. If adding any toppings like chocolate chips or blueberries, sprinkle over the pancake. Flip the pancake over and cook for another 1-2 minutes, until golden brown. Repeat with the remaining batter.
+8. Serve the pancakes with butter and maple syrup.
+9. Done
+
+---
+
+{% include youtube.html id='BPl7D20F2mE' %}
