@@ -41,6 +41,6 @@ Taste great warm or cold
 8. Serve with anything you'd like, jam, nutella, etc
 9. Done
 
----
+* * *
 
 {% include youtube.html id='l8-6HMW7lyU' %}
