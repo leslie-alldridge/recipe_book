@@ -31,18 +31,16 @@ Taste great warm or cold
 
 ## Steps
 
-Before starting, prepare the ingredients and create buttermilk with 2-3 TBSP of vinegar and whole milk. Let it stand for 5-10 minutes.
-
-1. In a large bowl, add the flour, sugar, salt, baking powder, and baking soda and whisk to combine.
-2. In a medium bowl or liquid measuring cup, add the buttermilk, melted butter, and egg yolks and whisk to combine.
-3. Add the buttermilk mixture to the dry ingredients and gently fold with a rubber spatula until just combined.
-4. Add the egg whites and fold until just combined. Be sure not to overmix. Some lumps are okay.
-5. Let the batter rest for 15-30 minutes at room temperature.
-6. Add the butter to a cast iron skillet and heat over medium low heat. Once the butter has melted and is bubbling, reduce the heat to medium-low and add ⅓ cup (75 g) of batter to the pan.
-7. Cook for 2-3 minutes, until bubbles start to appear on the surface. If adding any toppings like chocolate chips or blueberries, sprinkle over the pancake. Flip the pancake over and cook for another 1-2 minutes, until golden brown. Repeat with the remaining batter.
-8. Serve the pancakes with butter and maple syrup.
+1. In a small bowl place one and a half cups of milk with 2 TBS of white vinegar (allow it to curdle)
+2. In a large bowl, add the flour, white sugar, baking powder, vanilla essence and eggs.
+3. Add the milk once it has curdled, into the large bowl.
+4. Whisk for a few minutes, lightly.
+5. Add the melted butter (pan should be on and warm by now with a light coat of spray on oil)
+6. Mix until batter is smooth and thick.
+7. Cook in non-stick pan, when it bubbles on top, flip!
+8. Serve with anything you'd like, jam, nutella, etc
 9. Done
 
 ---
 
-{% include youtube.html id='BPl7D20F2mE' %}
+{% include youtube.html id='l8-6HMW7lyU' %}
