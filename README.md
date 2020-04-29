@@ -12,3 +12,8 @@ https://www.justataste.com/easy-homemade-cinnamon-rolls-without-yeast-recipe/ (g
 6 Tablespoons hot water (until desired consistency))
 
 https://www.youtube.com/watch?v=9UM5Iup_2Fs (hash browns)
+
+
+https://www.budgetbytes.com/make-soft-boiled-eggs/ (soft boiled eggs)
+
+https://damndelicious.net/2017/06/16/sheet-pan-egg-in-a-hole/ (egg in a hole) cook for 10mins , tried 12 and it was over done
