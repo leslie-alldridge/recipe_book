@@ -15,6 +15,8 @@ Time the cook and wait for time, so that it's not raw in the middle
 
 Add more oil to pan as required
 
+Half the recipe but using 1 can of corn is ideal for corn heavy fritters!
+
 ## Ingredients
 
 - 3 cups corn kernels (1.5 cans)
