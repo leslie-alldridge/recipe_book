@@ -38,6 +38,6 @@ Use a nice crusted loaf that's fresh
 9. Time for 10-12 minutes until cheese has melted and sides of bread are crispy
 10. Serve after cutting into wedge chunks
 
----
+* * *
 
 {% include youtube.html id='S145DFheNKw' %}
