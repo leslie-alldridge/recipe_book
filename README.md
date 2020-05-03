@@ -19,3 +19,9 @@ https://damndelicious.net/2017/06/16/sheet-pan-egg-in-a-hole/ (egg in a hole) co
 
 cinnamon apple muffins
 https://addapinch.com/cinnamon-apple-muffins-recipe/
+
+air fryer chicken
+https://www.myforkinglife.com/air-fryer-fried-chicken/
+
+shallow fry beer battered fish
+http://allrecipes.co.uk/recipe/45891/shallow-fried-fish.aspx
