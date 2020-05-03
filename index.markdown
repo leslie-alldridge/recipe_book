@@ -20,7 +20,7 @@ layout: home
 </ul>
 
 <!-- Script pointing to search-script.js -->
-<script src="/js/search-script.js" type="text/javascript"></script>
+<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
 
 <!-- Configuration -->
 <script>
