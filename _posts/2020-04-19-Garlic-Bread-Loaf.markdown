@@ -1,11 +1,12 @@
 ---
+
 [Go back](/cook_book/)
 
 # Garlic Bread Loaf
 
 ## Handy links
 
-- [Youtube Video](https://www.youtube.com/watch?v=S145DFheNKw){:target="_blank"}
+- [Youtube Video](https://www.youtube.com/watch?v=S145DFheNKw){:target="\_blank"}
 
 ## Helpful Notes & Tips
 
@@ -17,7 +18,7 @@ Use a nice crusted loaf that's fresh
 
 ## Ingredients
 
-- 113 grams butter
+- 113 grams butter - softened not melted
 - Parsley sprinkle
 - Minced garlic (one heaped teaspoon)
 - Bread large crusted loaf
@@ -28,7 +29,7 @@ Use a nice crusted loaf that's fresh
 
 1. Preheat oven to 180c
 2. Put butter into a bowl and microwave till soft (~13 seconds)
-3. Add a heaped teaspoon of minced garlic 
+3. Add a heaped teaspoon of minced garlic
 4. Generous sprinkle of parsley
 5. Stir together till it forms a nice even paste
 6. Add a handful of cheese and a squirt of mayo
@@ -37,6 +38,6 @@ Use a nice crusted loaf that's fresh
 9. Time for 10-12 minutes until cheese has melted and sides of bread are crispy
 10. Serve after cutting into wedge chunks
 
-* * *
+---
 
 {% include youtube.html id='S145DFheNKw' %}
