@@ -17,7 +17,7 @@ Grease the wire tray or add baking paper so it doesn't stick
 
 - 8 (800 grams) fish fillets
 - 1 tbsp olive oil
-- 1 cup 50 grams bread crumbs If following Gluten free diet, use gluten free breadcrumbs.
+- 1/2 cup bread crumbs If following Gluten free diet, use gluten free breadcrumbs.
 - 1/2 tsp paprika
 - 1/4 tsp dried chili powder
 - 1/4 tsp ground black pepper
