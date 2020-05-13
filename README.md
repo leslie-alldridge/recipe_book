@@ -11,6 +11,8 @@ https://www.justataste.com/easy-homemade-cinnamon-rolls-without-yeast-recipe/ (g
 1 teaspoon vanilla extract
 6 Tablespoons hot water (until desired consistency))
 
+(done)
+
 https://www.youtube.com/watch?v=9UM5Iup_2Fs (hash browns)
 
 https://www.budgetbytes.com/make-soft-boiled-eggs/ (soft boiled eggs)
@@ -20,11 +22,11 @@ https://damndelicious.net/2017/06/16/sheet-pan-egg-in-a-hole/ (egg in a hole) co
 cinnamon apple muffins (done)
 https://addapinch.com/cinnamon-apple-muffins-recipe/
 
-air fryer chicken
+air fryer chicken (done)
 https://www.myforkinglife.com/air-fryer-fried-chicken/
 
 shallow fry beer battered fish
 http://allrecipes.co.uk/recipe/45891/shallow-fried-fish.aspx
 
-Oven baked chicken and rice (todo)
+Oven baked chicken and rice (done)
 https://www.recipetineats.com/oven-baked-chicken-and-rice/
