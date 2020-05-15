@@ -19,9 +19,6 @@ https://www.budgetbytes.com/make-soft-boiled-eggs/ (soft boiled eggs)
 
 https://damndelicious.net/2017/06/16/sheet-pan-egg-in-a-hole/ (egg in a hole) cook for 10mins , tried 12 and it was over done
 
-cinnamon apple muffins (done)
-https://addapinch.com/cinnamon-apple-muffins-recipe/
-
 air fryer chicken (done)
 https://www.myforkinglife.com/air-fryer-fried-chicken/
 
