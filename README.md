@@ -1,6 +1,6 @@
 # cook_book
 
-A collection of recipes that I've learned how to make.
+A collection of recipes that I've learned how to make during lockdown.
 
 ### Recipes to try
 
