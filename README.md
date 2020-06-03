@@ -24,3 +24,6 @@ http://allrecipes.co.uk/recipe/45891/shallow-fried-fish.aspx
 
 Oven baked chicken and rice (done)
 https://www.recipetineats.com/oven-baked-chicken-and-rice/
+
+choc chip cookies recipe
+http://allrecipes.com.au/recipe/8897/amazing-soft-and-chewy-chocolate-chip-cookies.aspx
